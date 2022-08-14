@@ -1,0 +1,6 @@
+[submodule "wiiu-chat-secure"]
+	path = wiiu-chat-secure
+	url = https://github.com/PretendoNetwork/wiiu-chat-secure
+[submodule "wiiu-chat-authentication"]
+	path = wiiu-chat-authentication
+	url = https://github.com/PretendoNetwork/wiiu-chat-authentication
